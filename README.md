@@ -19,6 +19,7 @@
 1. **Install `socat`:**
    ```bash
    sudo apt-get install socat
+   ```
 ## Creating Virtual Serial Ports
 2 .Creating Virtual Serial Ports
 Command to Create Virtual Ports:
